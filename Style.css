@@ -1,0 +1,53 @@
+﻿body {
+}
+/*
+.container-fluid {
+    background-image: url("https://images.unsplash.com/photo-1584384689201-e0bcbe2c7f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3117&q=80");
+    background-size: cover;
+    background-position: center;
+    position: relative; 
+    
+}
+    */
+.name {
+  position: relative;
+  text-align: center;
+  background-color: yellow;
+}
+
+.name h1 {
+  color: #036a30;
+}
+
+.name p {
+  color: #3e6040;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+#about-me {
+  margin: 4em auto;
+  padding: 1em;
+  position: relative;
+}
+.feature-title {
+  color: #333;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.footerMenu li {
+  display: inline-block;
+  padding: 5px;
+  position: relative;
+  margin: 10px;
+  left: 330px;
+  color: #036a30;
+}
+
+.footerMenu a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #036a30;
+}
